@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Agentic.WorkItems")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a3e983e3a43f9c42dbb9d13f01d298f35caf0ea")]
 [assembly: System.Reflection.AssemblyProductAttribute("Agentic.WorkItems")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Agentic.WorkItems")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
